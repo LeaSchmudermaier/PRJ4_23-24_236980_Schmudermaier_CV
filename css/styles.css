@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #9DB99A;
+	background-color: #A2C092;
 }
 
 /* Styles for lists in the document */
@@ -56,3 +56,10 @@ body {
   font-style: normal;
 }
 
+.title {
+	color: #5B7A58;
+}
+
+.language-level {
+	border-color: #5B7A58 !important;
+}
